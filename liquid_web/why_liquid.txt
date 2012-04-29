@@ -1,0 +1,13 @@
+why liquid layout?
+
+To me for someone who is pretty new to the world of actual web design (c++, python, java for life) coding in absolute and fixed position my whole life. Liquid layout concept is pretty new to me. But once get into it become pretty obvious why it is better than any other type of layout.
+
+As the host of a popular website, we want to put it into as many people's computer as we can. However, not all of them are using the same 1680x1050 giant screen we used in our office. Smaller screen can cause text formatting problems that we might not see. A few issues are:
+
+-texts bump into each other at lower resolution screen.
+-video and division boxes either disappear or jumbles together to make it  
+unreadable.
+-The website begin to look really bad and not something that can attract  
+customer to the online features we can offer.
+
+To fix those problems we need liquid layout. the new layout is dynamic enough that it can accumulate different resolutions from different users on different screens. Problem solved.
