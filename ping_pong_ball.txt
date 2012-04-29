@@ -1,0 +1,26 @@
+How many ping pong balls would it take to fill an average-sized school bus? Describe each step in your thought process.
+***********
+
+
+pingpong ball is about 2cm in radius so each got volume around 4/3 * pi * (2)^3 in cubic cm
+
+an average size school bus is around 14m long 3m wide 2m high inside so a volume of 14*3*2 cubic meters
+
+assume all the seat in the bus take up around 1/8th of the bus space. since each seat is fairly small compare to the volume 
+it take up by the people sit on it. and another 1/8th of the bus is just the front engine so we take that out a swell
+
+assume that for every space for six pingpong ball it can actually only fit four beacuase the natural of the roundness of the ping pong ball and the space wasted between each other.
+
+so in the end:
+
+14*3*2 cubic meters*6/8 mutiply 1000000 cubic cm/ cubic m  divide 4/3 * pi * (2)^3 in cubic cm/ping pong ball
+
+= 63000000 cubic cm / 33.51 cubic cm
+1880035.8
+
+
+lastly since two in six is just space between them so
+1880036*4/6 = 1253358 pingpong ball
+
+
+so in estimate an average school bus can fit around 1,754,701 pingpong balls.
